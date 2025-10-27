@@ -1,0 +1,5 @@
+{
+  "name": "AI Machinist Quote Generator",
+  "description": "Upload a CAD file to receive an instant, AI-powered manufacturing quote. This tool simulates a cost analysis based on file metadata to provide an estimated price for machining.",
+  "requestFramePermissions": []
+}
